@@ -59,3 +59,25 @@ Here is a list of the preferred default and custom content fields for each site.
 |Name|Description|
 |-|-|
 |`Training content`|Detailed information about course content (i.e. topics, modules, syllabus)|
+
+### kursfinder.de
+
+####  Default content fields
+
+|Name|Description|
+|-|-|
+|`Description`|A general course overview/introduction||
+|`Qualification`|The course target group, also any prerequisites||
+|`Degree`|The certification that the participants may receive||
+|`Continuing`|How to continue the studies after this course (i.e. advanced level etc.)||
+|`DetailedCost`|Detailed information about pricing and what’s included in the price||
+
+####  Custom content fields
+
+|Name|Description|
+|-|-|
+|`Akkreditierung`|Detailed information about accreditations that a course or program might have|
+|`Inhalte / Module`|Detailed information about the course content (ideally listed as bullet points) or modules that a course consists of|
+|`Aufbau & Organisation`|Detailed information about the structure and other administrative information concerning a course|
+|`Förderung`|Detailed information about different funding (i.e. state-funded, Bildungsgutschein, Bildungsurlaub) or scholarship opportunities that exist for the course or program|
+|`Nutzen & Mehrwert`|Detailed summary about the benefits and new skills that a participant will gain from taking a course|

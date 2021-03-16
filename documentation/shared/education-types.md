@@ -175,6 +175,7 @@ Here is a comprehensive list of education types and their ID, divided by site.
 |257|Masterstudium||
 |186|Tagungen & Kongresse||
 |357|Umschulungen||
+|365|Fachwirte||
 
 ### searchmba.com
 
